@@ -1,7 +1,7 @@
 body{
     background-color: aquamarine;
     color:black
-    margin: 0px;
+    margin 0px;
 }
 
 header{
@@ -10,3 +10,12 @@ header{
    font-size: 32px;
    color: rgb(2, 127, 131);
 }
+
+section{
+    background-color: aqua;
+    padding-top: 80px;
+    padding-bottom: 80px;
+}
+
+
+
